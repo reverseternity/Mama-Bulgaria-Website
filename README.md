@@ -1,2 +1,2 @@
-# Mama-Bulgaria-Website
+# MamaBulgaria-Website
 Website project for Mama Bulgaria real estate company
